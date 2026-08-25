@@ -1,2 +1,14 @@
-# Book-Store-Caf-Billing-System
-Book Store Café Billing System is a Python-based desktop application developed using Tkinter. The system provides an interactive interface for selecting café items, specifying quantities, managing orders, and generating bills. It automatically calculates the subtotal, 18% GST, and final payable amount.
+# Book-Store-Cafe-Billing-System
+Book Store Cafe Billing System is a Python-based desktop application developed using Tkinter. It is designed to make café ordering and billing simple and efficient.
+
+The user can:
+
+Select food and beverages from the menu.
+Enter the required quantity.
+Add multiple items to the order.
+Remove or clear items.
+Enter the customer's name.
+Automatically calculate the subtotal.
+Automatically add 18% GST.
+Generate a final bill containing the bill number, customer name, date, items, GST, and total amount.
+The project demonstrates important Python concepts such as dictionaries, lists, functions, loops, conditional statements, event handling, and GUI programming.
